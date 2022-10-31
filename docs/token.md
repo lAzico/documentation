@@ -26,7 +26,7 @@ The $MOONEY token launched on **Friday, December 17, 2021** on Juicebox. The fun
 
 ## How to get $MOONEY
 
-The best way to get $MOONEY is by working with us to help build the DAO and carry out our mission. For more information, see our [Contribute](/docs/contribute) page.
+The best way to get $MOONEY is by working with us to help build the DAO and carry out our mission. For more information, see our [Contribute](/contribute) page.
 
 Obviously you can [buy $MOONEY](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x20d4DB1946859E2Adb0e5ACC2eac58047aD41395&chain=mainnet) on decentralized exchanges, but we would much rather have you work for us :-)
 

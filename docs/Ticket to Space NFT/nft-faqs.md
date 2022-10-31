@@ -54,7 +54,7 @@ Each potential prize winner that meets the above-mentioned criteria, as well as 
 
 ### **What is $MOONEY?**
 
-$MOONEY is MoonDAO’s governance token. These tokens are used to vote on proposals and other matters involving the DAO. There is no expectation of profit with this token. You are not receiving fractionalized ownership of the DAO’s assets in exchange for the token. No element of the $MOONEY and/or Ticket To Space NFTs qualifies or is intended to be an offering of securities in any jurisdiction, nor does it constitute an offer or an invitation to purchase shares, securities or other financial products. [Please check our website’s FAQs for more information and disclaimers.](https://moondao.com/docs/faq)[ ](https://moondao.com/docs/faq)
+$MOONEY is MoonDAO’s governance token. These tokens are used to vote on proposals and other matters involving the DAO. There is no expectation of profit with this token. You are not receiving fractionalized ownership of the DAO’s assets in exchange for the token. No element of the $MOONEY and/or Ticket To Space NFTs qualifies or is intended to be an offering of securities in any jurisdiction, nor does it constitute an offer or an invitation to purchase shares, securities or other financial products. [Please check our website’s FAQs for more information and disclaimers.](/faq)[ ](/faq)
 
 ### **MoonDAO has two Blue Origin tickets, who will receive the other ticket?**
 
