@@ -1,12 +1,13 @@
 ---
+title: Introduction
 sidebar_position: 1
 slug: /
 ---
 
-# The Nation3 wiki
+# MoonDAO is going to the moon.
 
 ![](/img/hero.png)
 
-This is the place to compile all things Nation3 and unbundling nation states.
+This documentation will serve as a way to answer FAQs, offer more detailed information about our token, information about our team, and elaborate more on our plans for the future.
 
-The Nation3 wiki containts useful information about the DAO, the token ecosystem, governance process, audits, relevant links, as well as compiles the ecosystem of projects and services relevant to cloud nations.
+We'll be updating this as we get more infomormation, check back for the latest information about MoonDAO!

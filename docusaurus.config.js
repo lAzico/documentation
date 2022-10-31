@@ -6,15 +6,15 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Nation3 wiki",
-  tagline: "Unbundling the nation state",
-  url: "https://wiki.nation3.org",
+  title: "MoonDAO Docs",
+  tagline: "Decentralize Access to Space",
+  url: "https://docs.moondao.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "/img/favicon.ico",
-  organizationName: "nation3", // Usually your GitHub org/user name.
-  projectName: "wiki", // Usually your repo name.
+  organizationName: "Official-MoonDAO", // Usually your GitHub org/user name.
+  projectName: "documentation", // Usually your repo name.
   trailingSlash: true,
 
   presets: [
@@ -25,7 +25,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/nation3/wiki",
+          editUrl: "https://github.com/Official-MoonDao/documentation",
           routeBasePath: "/",
         },
         blog: false,
@@ -40,25 +40,25 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Nation3 wiki",
+        title: "MoonDAO",
         logo: {
-          alt: "Nation3 Logo",
-          src: "img/icon.svg",
+          alt: "MoonDAO Logo",
+          src: "img/Original.svg",
         },
         items: [
           {
-            href: "https://nation3.org",
-            label: "Main site",
+            href: "https://moon-dao.webflow.io/",
+            label: "Homepage",
+            position: "right",
+          },
+          {
+            href: "https://melodious-longma-da7ab3.netlify.app/",
+            label: "Mission Control",
             position: "right",
           },
           {
             href: "https://discord.gg/rvrqvUWPDy",
             label: "Join Discord",
-            position: "right",
-          },
-          {
-            href: "https://github.com/nation3/wiki",
-            label: "GitHub",
             position: "right",
           },
         ],
