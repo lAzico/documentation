@@ -47,12 +47,12 @@ const config = {
         },
         items: [
           {
-            href: "https://moon-dao.webflow.io/",
+            href: "https://www.moondao.com/",
             label: "Homepage",
             position: "right",
           },
           {
-            href: "https://melodious-longma-da7ab3.netlify.app/",
+            href: "https://dashboard.moondao.com/",
             label: "Mission Control",
             position: "right",
           },
