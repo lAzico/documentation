@@ -1,6 +1,6 @@
 ---
 id: contribute
-title: How to contribute to MoonDAO
+title: Contribute to MoonDAO
 description: Learn how to contribute to MoonDAO, understand Progressive Governance, and Titles and their Subject Roles.
 keywords:
   [
@@ -16,35 +16,40 @@ keywords:
     Decentralization,
   ]
 sidebar_label: Contribute
-sidebar_position: 7
+sidebar_position: 4
 ---
 
-If you have any more questions, or would like to hang out with the community and get involved, join our Discord or follow us on Twitter.
+MoonDAO does not work like most traditional corporate organizations, in fact, we never intend to become a "company" in the traditional sense. We are a DAO. We are open for anyone in the world to work with us. All contributors are classified as Independent Contractors and they are responsible for taxes in their respective jurisdiction that result from rewards from their contributions.
 
-- [Discord](https://discord.gg/RpDEtQHcPw)
-- [Twitter](https://twitter.com/OfficialMoonDAO)
-- [Github](https://github.com/Official-MoonDao/moondaowww)
+There are many levels of involvement with MoonDAO.
 
-## Progressive Governance
+## Level 1: Join a MoonDAO Guild
 
-Our Progressive governance model enables anyone to contribute to the DAO.
+MoonDAO Guilds are the most basic level of participation at MoonDAO. They’re low commitment, and at your own speed. You can take on bounties from MoonDAO projects for $MOONEY or Dai, and generally pick up as much work as you’d like.
 
-## Titles Include:
+Some examples of MoonDAO Guilds are:
+- **Space Engineering Guild** - This guild is for both experienced space engineers and promising engineers that want to make a transition into space engineering. We focus on incubating proof-of-concepts for moonshots that can be developed into full MoonDAO projects, and eventually subDAOs. It is currently led by @pmoncada.
+- **Developers Guild** - This guild is for MoonDAO web development. It spans web2 and web3. Anything from novel mechanics for governance, incentives, finance, to landing pages, documentation, and dashboards for MoonDAO members. This guild is currently led by @larrotiz.
+- **Community Guild** - This guild focuses on internal operations at MoonDAO and engagement of MoonDAO members. This is a meta MoonDAO guild that focuses on improving MoonDAO processes and reducing bureaucracy. This guild helps organize information to make MoonDAO efficient and reduce bottlenecks for contributors. This guild is currently led by @luffy. 
+- **Growth Guild** - This guild focuses on increasing MoonDAO’s footprint in the world. Everything from marketing, onboarding, and targeted growth of different guilds. This guild is currently led by @ballack.
 
-- **@Astronaut** - (Temporary) leaders and administrators of MoonDAO
-- **@Cosmonauts** - Members of the MoonDAO Core Team
-- **@Rocketeers** - Members of the MoonDAO Preliminary Core Team
-- **@Moon Settlers** - Moderators and key contributors to MoonDAO
-- **@Earthlings** - Verified members of MoonDAO
+You can [apply to join a MoonDAO Guild here](https://moondao.com/contribute).
 
-## Subject Roles
+## Level 2: Join a MoonDAO Project
 
-Here are some of the ways you can specialise in MoonDAO: @Legal @Finance @Eth Dev @Web Dev @Design @Marketing All roles are earnable.
+MoonDAO Projects are non-perpetual, goal-based teams that are approved to execute autonomously. MoonDAO teams have no over-head from MoonDAO governance. 
 
-As MoonDAO matures, **@Moon Settlers**, **@Rocketeers**, **@Cosmonauts** and **@Astronauts** will be decided in a decentralised, bottom-up approach through wider community vote. The 'in' group should not decide roles- MoonDAO is not a clique it's a community. Eventually once MoonDAO reaches full-maturity we can get rid of roles altogether.
+You may work with a team or as an individual working on a key objective for the DAO. The DAO will vote to allocate resources and budget for your project and you’d be eligible for Coordinape rewards.
 
-In MoonDAOs very early life, we will help guide the DAO until it can find its feet and walk on its own. As such, at the beginning, we will have to centrally grow the MoonDAO team, but will do so while filtering strongly for individuals who are not status/bureaucracy-oriented and who are working on dedicated channels (dev, legal, finance, design).
+MoonDAO projects are autonomous units and may be incorporated into separate legal entities to complete their mission. As the projects grow they may incubate and eventually become their own subDAOs.
 
-To go from partial decentralisation to complete decentralisation, MoonDAO will employ progressive decentralisation. Key moments of decentralisation will be linked to MoonDAOs milestone objectives- our Moon Phases. At each Moon Phase we plan to take a vote to determine the next step in progressively decentralising MoonDAO.
+## Level 3: Lead a MoonDAO Project
 
-This is in fact so important to MoonDAO, that one of the core roles of astronaut @kogero is to monitor that MoonDAO is effectively decentralising over time.
+Experienced members of the MoonDAO ecosystem are encouraged to start their own projects. This comes with added responsibility of being a Senate member and having a seat on the governing body that reviews new MoonDAO projects.
+
+Leading a MoonDAO project is a larger commitment, you would steward the project from proposal to completion, and be responsible for putting together a core team and completing the objectives of the project on time.
+
+## Level 4: Become an Astronaut
+
+An Astronaut role is given to members that are trusted with stewarding the DAO and helping guide it as it becomes increasingly decentralized. This is the highest level of contribution to the DAO. The DAO can hold votes to select Astronauts, as detailed in our [Constitution](https://docs.moondao.com/constitution).
+
