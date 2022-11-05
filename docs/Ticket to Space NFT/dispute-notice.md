@@ -54,12 +54,8 @@ Desired Outcome: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 ` `\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Mail or Email Notice to: LuckDAO Limited d/b/a MoonDAO
+Email Notice to: LuckDAO Limited d/b/a MoonDAO
 
-398B Capp St.
+info@moondao.com
 
-San Francisco, CA, 94110
-
-dispute@moondao.com
-
-(\*Required fields) {00136660;1}
+(\*Required fields)

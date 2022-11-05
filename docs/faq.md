@@ -3,14 +3,12 @@ id: faq
 title: FAQ
 description: Find Answers to our Frequently asked Questions, and learn more about the DAO.
 keywords: [FAQ, Funds, Risks, Token, DAO Conpesation, Governance]
-sidebar_position: 4
+sidebar_position: 9
 ---
 
 ### Where are the funds going to be stored?
 
-We will use the same strategy as ConstitutionDAO for the initial fundraise for MoonDAO. We'll store the funds in a Gnosis multi-sig with some of the core contributors, and then use Juicebox's protocol to raise funds. Once we have a coin we will use a snapshot to make decisions as a DAO.
-
-The token represents governance over the DAO, but not fractionalized ownership of the DAO or any of its assets.
+Our funds are stored in a Gnosis multi-sig with five of seven signers. Signers can be elected and rotated based on the MoonDAO governance.
 
 ### What are the risks?
 
@@ -25,7 +23,7 @@ No. You are receiving a governance token, not fractionalized ownership. Governan
 
 ### Will the core team receive any of the raised funds for themselves or get compensated in any way from this?
 
-The core team has not received or pre-minted any tokens. We just want this to exist, we're not doing this for the money. If you want to tip anyone in the community with NFT-memes or give individuals something for their hard work, that's up to you. We don't see much of a distinction between the core-contributors and the rest of the people. Eventually we hope there is no distinction in the long term and the community and core contributors have the same powers.
+The team has not pre-minted any tokens. The community determines the appropriate budget for the contributors through the MoonDAO governance.
 
 ### Why is there a 50% reserve on the token?
 

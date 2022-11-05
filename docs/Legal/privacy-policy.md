@@ -77,13 +77,13 @@ Notwithstanding the foregoing, we may continue to contact you for the purpose of
 
 ### **Your California Privacy Rights**
 
-**If you are a resident of the State of California and would like to learn how your “personal information” (as defined in the Shine the Light Law, Cal. Civ. Code § 1798.83) is shared with third parties, what categories of personal information we have shared with third parties in the preceding year, as well as the names and addresses of those third parties, please e-mail us at: info@moondao.com; call us at: 1-(734)-846-2638; or send us U.S. Mail to: MoonDAO, 398B Capp St., San Francisco, CA, 94110.**
+**If you are a resident of the State of California and would like to learn how your “personal information” (as defined in the Shine the Light Law, Cal. Civ. Code § 1798.83) is shared with third parties, what categories of personal information we have shared with third parties in the preceding year, as well as the names and addresses of those third parties, please e-mail us at: info@moondao.com; call us at: 1-(734)-846-2638.**
 
-**Further, if you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third-party for marketing purposes, please e-mail us at: info@moondao.com; call us at: 1-(734)-846-2638; or send us U.S. Mail to: MoonDAO, 398B Capp St., San Francisco, CA, 94110.**
+**Further, if you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third-party for marketing purposes, please e-mail us at: info@moondao.com; call us at: 1-(734)-846-2638**
 
 ### **Your Nevada Privacy Rights**
 
-**If you are a resident of the State of Nevada and would like to opt-out from the sale of your personal information to any third party data broker, please e-mail us at: info@moondao.com; call us at: 1-(734)-846-2638; or send us U.S. Mail to: MoonDAO, 398B Capp St., San Francisco, CA, 94110.**
+**If you are a resident of the State of Nevada and would like to opt-out from the sale of your personal information to any third party data broker, please e-mail us at: info@moondao.com; call us at: 1-(734)-846-2638.**
 
 ### **Personal Data Collected**
 
@@ -179,6 +179,6 @@ MoonDAO™ reserves the right to change or update this Privacy Policy at any tim
 
 ### **Contact Us**
 
-If you have any questions about this Privacy Policy or our privacy practices in general, you may email us as at: info@moondao.com; call us at: 1-(734)-846-2638; or send us mail to MoonDAO, 398B Capp St., San Francisco, CA, 94110.
+If you have any questions about this Privacy Policy or our privacy practices in general, you may email us as at: info@moondao.com; call us at: 1-(734)-846-2638.
 
 {00136663;1}

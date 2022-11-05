@@ -18,7 +18,7 @@ keywords:
     Space Travel,
   ]
 sidebar_label: MoonDAO Constitution
-sidebar_position: 2
+sidebar_position: 7
 ---
 
 # MoonDAO Constitution
