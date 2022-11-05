@@ -39,7 +39,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: "img/Original.svg",
+      image: "img/hero.png",
       navbar: {
         title: "MoonDAO",
         logo: {
