@@ -31,4 +31,4 @@ The 50% reserve will be goverened by the $MOONEY holders, and can be used to pay
 
 ### How will governance work?
 
-To start out we will have proportional governance up to a community decided limit. The limit is needed so that if one person buys more than 51% of the tokens they cannot centrally control the DAO’s decisions. To begin, we will use a 4% limit of the total coin supply, however anyone is welcome to purchase more than 4% if they would like to contribute more. The multi-sig will confirm transactions on behalf of the community, and in theory have a veto power to protect the community if there is an attack on the governance of the DAO. As the DAO evolves our governance will mature, and we will likely have more sophisticated and more decentralized governance structures -- these decisions will be in the hands of the token holders.
+Check out our [Governance](https://docs.moondao.com/governance) section and our [Constitution](https://docs.moondao.com/constitution) to learn more about how we work!
