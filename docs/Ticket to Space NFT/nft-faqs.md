@@ -8,6 +8,8 @@ sidebar_position: 1
 slug: /nft-faqs
 ---
 
+### **IMPORTANT: The winner for the Ticket to Space NFT was selected as of June 12, 2022, and the $MOONEY airdrop has already been conducted.**
+
 ### **What are the Ticket To Space NFTs?**
 
 MoonDAO’s Ticket To Space NFTs give anyone in the world who is of the legal age of majority the opportunity to enter a sweepstakes for a chance to win an opportunity to fly to space on Blue Origin’s New Shepard rocket (other than residents of the states of Florida and New York and where entry in the contest is otherwise prohibited by law). The Ticket To Space NFT has the following additional benefits:
