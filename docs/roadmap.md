@@ -22,7 +22,7 @@ sidebar_position: 2
 
 MoonDAO is currently in Phase 3 of its roadmap. Let's walk through MoonDAO's history, and get an idea of its tragectory.
 
-## 🌒 Moon Phase 1: Deploy a token for decentralized governance of MoonDAO.
+## 🌒 Moon Phase 1: Deploy Decentralized Governance of MoonDAO.
 
 This phase was focused on going from zero to one and create the MoonDAO community (mission, values, vision) and crowdraise for our first mission of sending a member to space. We did so by deploying the $MOONEY token for decentralized governance of MoonDAO. The primary goal is to decentralize the governance of MoonDAO from the onset, and add the structure necessary to create an uncorruptable on-chain governance system. **There is no expectation of profit with this token, this token’s purpose is to coordinate our governance.**
 
@@ -38,7 +38,7 @@ This was our first big statement: to make accessible to anyone in the world.
 
 MoonDAO purchased two tickets from Blue Origin and decided that it would select each astronaut using a different method:
 
-1. For the first ticket, we did a popular vote with $MOONEY to vote between several candiates. The winner was Dude Perfect! They ran their own internal contest by building model rockets, and Coby Cotton was the winner. He was sent into Space on August 4th, 2022.
+1. For the first ticket, we did a popular vote with $MOONEY to vote between several candidates. The winner was Dude Perfect! They ran their own internal contest by building model rockets, and Coby Cotton was the winner. He was sent into Space on August 4th, 2022.
 2. For the second ticket, we released a **Ticket To Space NFT Collection** for free. Over 8000 NFTs were minted, and we ran an on-chain chainlink VRF function to select the winner. The winner was Yan Kejun, Yan is a father of three from mainland China working in e-commerce and will be flying on a future Blue Origin New Shepard flight.
 
 So far in history, space exploration has been gated to the rest of the world — accessible to only the privileged. MoonDAO changes this for the first time in history.
