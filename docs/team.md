@@ -32,3 +32,5 @@ Hey I'm Pablo, I used to work at BigTech but dropped out after seeing where the 
 
 **Twitter:** [@LarrotizPablo](https://twitter.com/LarrotizPablo)
 **Discord:** pmoncada#0216
+
+L team
